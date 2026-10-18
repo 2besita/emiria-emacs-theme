@@ -1,4 +1,4 @@
-# automata-theme
+# emiria-theme
 
 An Emacs purple-ish light theme inspired by Emilia from the anime Re:Zero
 
